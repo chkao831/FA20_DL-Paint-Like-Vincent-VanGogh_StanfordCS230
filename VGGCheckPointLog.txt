@@ -1,0 +1,213 @@
+epoch: 1
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+WARNING:tensorflow:From /home/ubuntu/anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages/tensorflow_core/python/ops/math_grad.py:1394: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+checkpoint saved  Loss: 22964902.0
+checkpoint saved  Loss: 21057684.0
+checkpoint saved  Loss: 20001682.0
+checkpoint saved  Loss: 19408784.0
+checkpoint saved  Loss: 19051432.0
+checkpoint saved  Loss: 18882970.0
+checkpoint saved  Loss: 18705510.0
+checkpoint saved  Loss: 18498832.0
+checkpoint saved  Loss: 18306630.0
+checkpoint saved  Loss: 18128098.0
+checkpoint saved  Loss: 18003894.0
+checkpoint saved  Loss: 17876350.0
+checkpoint saved  Loss: 17759304.0
+checkpoint saved  Loss: 17646578.0
+checkpoint saved  Loss: 17600840.0
+checkpoint saved  Loss: 17528832.0
+checkpoint saved  Loss: 17448458.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 17406152.0
+epoch: 2
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 16206811.0
+checkpoint saved  Loss: 16615661.0
+checkpoint saved  Loss: 16389769.0
+checkpoint saved  Loss: 16218765.0
+checkpoint saved  Loss: 16185287.0
+checkpoint saved  Loss: 16231741.0
+checkpoint saved  Loss: 16192600.0
+checkpoint saved  Loss: 16103380.0
+checkpoint saved  Loss: 16027257.0
+checkpoint saved  Loss: 15962343.0
+checkpoint saved  Loss: 15901744.0
+checkpoint saved  Loss: 15844613.0
+checkpoint saved  Loss: 15785439.0
+checkpoint saved  Loss: 15730828.0
+checkpoint saved  Loss: 15682862.0
+checkpoint saved  Loss: 15642484.0
+checkpoint saved  Loss: 15616012.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 15601669.0
+epoch: 3
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 15222182.0
+checkpoint saved  Loss: 15454514.0
+checkpoint saved  Loss: 15323600.0
+checkpoint saved  Loss: 15218258.0
+checkpoint saved  Loss: 15170908.0
+checkpoint saved  Loss: 15111514.0
+checkpoint saved  Loss: 15063521.0
+checkpoint saved  Loss: 14998154.0
+checkpoint saved  Loss: 14953017.0
+checkpoint saved  Loss: 14913678.0
+checkpoint saved  Loss: 14894540.0
+checkpoint saved  Loss: 14860310.0
+checkpoint saved  Loss: 14834209.0
+checkpoint saved  Loss: 14807868.0
+checkpoint saved  Loss: 14770341.0
+checkpoint saved  Loss: 14742605.0
+checkpoint saved  Loss: 14719774.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 14707229.0
+epoch: 4
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 14723471.0
+checkpoint saved  Loss: 15016009.0
+checkpoint saved  Loss: 14843255.0
+checkpoint saved  Loss: 14736677.0
+checkpoint saved  Loss: 14710271.0
+checkpoint saved  Loss: 14690034.0
+checkpoint saved  Loss: 14669435.0
+checkpoint saved  Loss: 14605082.0
+checkpoint saved  Loss: 14548549.0
+checkpoint saved  Loss: 14503337.0
+checkpoint saved  Loss: 14462513.0
+checkpoint saved  Loss: 14432754.0
+checkpoint saved  Loss: 14398437.0
+checkpoint saved  Loss: 14364277.0
+checkpoint saved  Loss: 14324984.0
+checkpoint saved  Loss: 14294838.0
+checkpoint saved  Loss: 14268726.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 14256625.0
+epoch: 5
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 13918260.0
+checkpoint saved  Loss: 13987235.0
+checkpoint saved  Loss: 13881752.0
+checkpoint saved  Loss: 13839323.0
+checkpoint saved  Loss: 13826015.0
+checkpoint saved  Loss: 13812653.0
+checkpoint saved  Loss: 13805992.0
+checkpoint saved  Loss: 13776205.0
+checkpoint saved  Loss: 13761959.0
+checkpoint saved  Loss: 13736066.0
+checkpoint saved  Loss: 13719749.0
+checkpoint saved  Loss: 13698898.0
+checkpoint saved  Loss: 13679370.0
+checkpoint saved  Loss: 13664301.0
+checkpoint saved  Loss: 13648260.0
+checkpoint saved  Loss: 13632974.0
+checkpoint saved  Loss: 13620367.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 13613637.0
+epoch: 6
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 13519572.0
+checkpoint saved  Loss: 13584512.0
+checkpoint saved  Loss: 13508948.0
+checkpoint saved  Loss: 13461222.0
+checkpoint saved  Loss: 13444119.0
+checkpoint saved  Loss: 13419738.0
+checkpoint saved  Loss: 13424033.0
+checkpoint saved  Loss: 13399188.0
+checkpoint saved  Loss: 13386035.0
+checkpoint saved  Loss: 13356119.0
+checkpoint saved  Loss: 13344212.0
+checkpoint saved  Loss: 13325846.0
+checkpoint saved  Loss: 13315393.0
+checkpoint saved  Loss: 13298998.0
+checkpoint saved  Loss: 13281205.0
+checkpoint saved  Loss: 13266472.0
+checkpoint saved  Loss: 13253139.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 13246927.0
+epoch: 7
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 13053298.0
+checkpoint saved  Loss: 13173898.0
+checkpoint saved  Loss: 13112882.0
+checkpoint saved  Loss: 13105190.0
+checkpoint saved  Loss: 13091332.0
+checkpoint saved  Loss: 13066823.0
+checkpoint saved  Loss: 13055269.0
+checkpoint saved  Loss: 13022497.0
+checkpoint saved  Loss: 13015256.0
+checkpoint saved  Loss: 13000044.0
+checkpoint saved  Loss: 12996814.0
+checkpoint saved  Loss: 12988433.0
+checkpoint saved  Loss: 12978419.0
+checkpoint saved  Loss: 12970786.0
+checkpoint saved  Loss: 12957968.0
+checkpoint saved  Loss: 12947983.0
+checkpoint saved  Loss: 12938572.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 12934203.0
+epoch: 8
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 12774267.0
+checkpoint saved  Loss: 12861238.0
+checkpoint saved  Loss: 12818371.0
+checkpoint saved  Loss: 12814316.0
+checkpoint saved  Loss: 12812854.0
+checkpoint saved  Loss: 12790874.0
+checkpoint saved  Loss: 12775823.0
+checkpoint saved  Loss: 12743969.0
+checkpoint saved  Loss: 12739243.0
+checkpoint saved  Loss: 12731085.0
+checkpoint saved  Loss: 12734026.0
+checkpoint saved  Loss: 12728119.0
+checkpoint saved  Loss: 12718386.0
+checkpoint saved  Loss: 12713460.0
+checkpoint saved  Loss: 12706561.0
+checkpoint saved  Loss: 12702646.0
+checkpoint saved  Loss: 12697627.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 12696292.0
+epoch: 9
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 12614877.0
+checkpoint saved  Loss: 12779909.0
+checkpoint saved  Loss: 12703072.0
+checkpoint saved  Loss: 12657400.0
+checkpoint saved  Loss: 12642044.0
+checkpoint saved  Loss: 12622945.0
+checkpoint saved  Loss: 12606743.0
+checkpoint saved  Loss: 12574020.0
+checkpoint saved  Loss: 12567715.0
+checkpoint saved  Loss: 12559259.0
+checkpoint saved  Loss: 12555486.0
+checkpoint saved  Loss: 12541967.0
+checkpoint saved  Loss: 12531944.0
+checkpoint saved  Loss: 12524083.0
+checkpoint saved  Loss: 12517024.0
+checkpoint saved  Loss: 12512037.0
+checkpoint saved  Loss: 12504863.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 12504502.0
+epoch: 10
+Model Checkpoint Path:  model_checkpoint/model_checkpoint.ckpt
+checkpoint saved  Loss: 12433448.0
+checkpoint saved  Loss: 12556972.0
+checkpoint saved  Loss: 12524009.0
+checkpoint saved  Loss: 12469185.0
+checkpoint saved  Loss: 12454723.0
+checkpoint saved  Loss: 12430700.0
+checkpoint saved  Loss: 12413605.0
+checkpoint saved  Loss: 12382262.0
+checkpoint saved  Loss: 12369370.0
+checkpoint saved  Loss: 12357072.0
+checkpoint saved  Loss: 12350071.0
+checkpoint saved  Loss: 12339927.0
+checkpoint saved  Loss: 12339670.0
+checkpoint saved  Loss: 12334283.0
+checkpoint saved  Loss: 12335464.0
+checkpoint saved  Loss: 12334755.0
+checkpoint saved  Loss: 12329443.0
+Model Checkpointed at:  model_checkpoint/model_checkpoint.ckpt
+loss: 12334067.0
